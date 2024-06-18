@@ -2,3 +2,5 @@ Martin Medina
 12.630.668
 San Cristobal
 Tachira
+repositorio git hub
+repositorio local
