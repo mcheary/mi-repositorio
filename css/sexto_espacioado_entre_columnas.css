@@ -1,0 +1,11 @@
+.row {
+    background: #2b31e2;
+}
+
+.columna-propia {
+    background: black;
+    color: white;
+    border: 3px solid grey;
+    padding: 10px;
+    text-align: center;
+}

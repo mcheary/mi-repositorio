@@ -1,0 +1,13 @@
+.row {
+    background: #8a2be2;
+    margin-top: 20px;
+    height: 50px;
+}
+
+.col {
+    background: black;
+    color: white;
+    border: 3px solid grey;
+    padding: 10px;
+    text-align: center;
+}

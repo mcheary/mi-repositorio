@@ -1,0 +1,38 @@
+.row-cabecera {
+    height: 100px;
+    background: #2b31e2;
+    text-align: center;
+    padding: 10px;
+}
+
+.row-imagen {
+    height: 550px;
+    background: #74e22b;
+    text-align: center;
+}
+
+.row-noticias {
+    background: #e2832b;
+}
+
+.row-testimonio {
+    height: 400px;
+    background: #e22b2b;
+}
+
+.color-gris {
+    background-color: grey;
+}
+
+.color-empresa {
+    background-color: rgb(154, 184, 255);
+}
+.color-aliado {
+   /*  height: 400px; */
+    background-color: rgb(185, 185, 255);
+    text-align: center;
+}
+
+.color-azul {
+    background-color: blue;
+}
