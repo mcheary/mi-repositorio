@@ -1,0 +1,62 @@
+* {
+    padding: 1px;
+}
+
+.logo {
+    width: 80px;
+    margin-right: 400px;
+}
+
+nav li {
+    padding: opx 10px;
+    text-decoration: none;
+}
+
+nav li:hover {
+    background-color: #efa654;
+}
+
+ul a:hover {
+    background-color: #efa654;
+}
+
+div>ul {
+    text-decoration: none;
+}
+.borde-imagen {
+    clip-path: polygon(0% 0%, 100% 0, 100% 90%, 0% 100%);
+    padding: 5px;
+    width: 100%;
+}
+
+.imagenes-galeria {
+    width: 200px;
+    padding: 1px;
+}
+
+.fondo-pie{
+    background: rgb(253, 182, 124);
+    color: black;
+    padding: 4px;
+    margin-bottom: 0px;
+    border: 1px solid black;
+}
+
+.fondo-pie1 {
+    background: lightgray;
+    color: black;
+    padding: 10px 0px;
+    border: 1px solid black;
+}
+
+.fondo-pie2 {
+    background: gray;
+    color: black;
+    padding: 0px;
+    border: 1px solid black;
+}
+
+.centro {
+    text-align: center;
+    padding: 2px 50px;
+}
